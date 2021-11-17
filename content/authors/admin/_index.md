@@ -1,6 +1,6 @@
 ---
 role: Emergency Medicine Fellow, junior researcher
-avatar_filename: pkjjfta_400x400.jpg
+avatar_filename: avatar.jpg
 bio: Coucou
 interests:
   - Emergency medicine
@@ -9,8 +9,8 @@ interests:
   - Respiratory care
   - Prehospital
 social:
-  - icon: envelope
-    icon_pack: ai
+  - icon: envelope-square
+    icon_pack: fas
     link: /#contact
   - icon: twitter-square
     icon_pack: fab
@@ -36,19 +36,16 @@ social:
     icon_pack: ai
     icon: sci-hub
 organizations:
-  - name: Centre Hospitalier Universitaire de Bordeaux
-    url: https://www.chu-bordeaux.fr/Les-services/Service-des-Urgences-adultes-et-de-permanence-d-acc%C3%A8s-aux-soins-de-sant%C3%A9-(PASS)-de-Pellegrin/
+  - name: University Hospital of Bordeaux
+    url: https://www.chu-bordeaux.fr/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Biostatistics (in progress)
+      institution: ISPED
+      year: ""
+    - course: MD in Emergency Medicine
+      institution: Bordeaux University
+      year: 2020
 superuser: true
 highlight_name: true
 title: Pierre Catoire
