@@ -51,8 +51,11 @@ highlight_name: true
 title: Pierre Catoire
 email: pierre.catoire.med@gmail.com
 ---
-Pierre is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently an Emergency Medicine Fellow (*Chef de Clinique*) at the University Hospital of Bordeaux, and practice in hospital, pre-hospital and dispatch settings.  As part of my fellowship, I also carry out research and teaching activities at the University of Bordeaux.
+My main clinical research focuses on the management of respiratory, metabolic and traumatic emergencies, in particular on clinical decision support by improving the integration of clinical information.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+To develop these clinical tools, I rely on innovative statistical approaches, as I am learning them in the Biostatistics master's degree of the Institute of Public Health, Epidemiology and Development (ISPED) in Bordeaux. In particular, I am interested in Bayesian and causal inference approaches.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I also teach emergency medicine at the University of Bordeaux to medical students, senior doctors, nurses and paramedical staff. In addition to my clinical subjects, my main teaching topics are clinical reasoning, decision making under uncertainty, and resilience to error. I am recently involved in free medical education projects (stay tuned!) and in the elaboration and sharing of clinical guidelines within the French Society of Emergency Medicine (SFMU). 
+
+{{< icon name="download" pack="fas" >}} If you want to know more about my background, please feel free to consult my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
