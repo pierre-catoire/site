@@ -46,6 +46,9 @@ education:
     - course: MD in Emergency Medicine
       institution: Bordeaux University
       year: 2020
+    - course: Various Universitary Degrees (Diplômes d'Université), please check my
+        resume !
+      institution: " "
 superuser: true
 highlight_name: true
 title: Pierre Catoire
