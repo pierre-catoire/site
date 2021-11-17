@@ -8,6 +8,7 @@ interests:
   - Clinical Reasoning
   - Respiratory care
   - Prehospital
+  - Human factors
 social:
   - icon: envelope-square
     icon_pack: fas
@@ -46,7 +47,7 @@ education:
     - course: MD in Emergency Medicine
       institution: Bordeaux University
       year: 2020
-    - course: Several Universitary Degrees (Diplômes d'Université)
+    - course: Several Universitary Degrees
       institution: " Please check my resumé"
 superuser: true
 highlight_name: true
