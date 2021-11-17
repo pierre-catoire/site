@@ -1,5 +1,6 @@
 ---
 role: Emergency Medicine Fellow, junior researcher
+avatar_filename: pkjjfta_400x400.jpg
 bio: Coucou
 interests:
   - Artificial Intelligence
@@ -38,7 +39,7 @@ education:
 superuser: true
 highlight_name: true
 title: Pierre Catoire
-email: "pierre.catoire.med@gmail.com"
+email: pierre.catoire.med@gmail.com
 ---
 Pierre is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
