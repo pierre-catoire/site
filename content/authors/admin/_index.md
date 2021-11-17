@@ -3,24 +3,26 @@ role: Emergency Medicine Fellow, junior researcher
 avatar_filename: pkjjfta_400x400.jpg
 bio: Coucou
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Emergency medicine
+  - Biostatistics
+  - Clinical Reasoning
+  - Respiratory care
+  - Prehospital
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: ai
     link: /#contact
   - icon: twitter
-    icon_pack: fab
+    icon_pack: ai
     link: https://twitter.com/Pierre_Catoire
   - icon: graduation-cap
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=buCkhbkAAAAJ
   - icon: github
-    icon_pack: fab
+    icon_pack: ai
     link: https://github.com/pierre-catoire
   - icon: linkedin
-    icon_pack: fab
+    icon_pack: ai
     link: https://www.linkedin.com/in/pierre-catoire-96a23787/
 organizations:
   - name: Centre Hospitalier Universitaire de Bordeaux
