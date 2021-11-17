@@ -2,7 +2,7 @@
 widget: about
 headless: true
 weight: 20
-title: Biography
+title: Hi there, Pierre here
 active: true
 author: admin
 widget_id: bio
