@@ -1,7 +1,7 @@
 ---
 role: Emergency Medicine Fellow, junior researcher
 avatar_filename: avatar.jpg
-bio: Coucou
+bio: Emergency Medicine fellow
 interests:
   - Emergency medicine
   - Biostatistics
