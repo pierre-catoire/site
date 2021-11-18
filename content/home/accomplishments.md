@@ -25,36 +25,31 @@ date_format: Jan 2006
 item:
 - date_end: "2021-10-31"
   date_start: "2020-11-01"
-  description: Universitary Diploma
-  organization: ISPED (Bordeaux)
+  organization: ISPED (Bordeaux) - Universitary Diploma
   organization_url: http://www.isped.u-bordeaux.fr/
   title: Methods and practice in Epidemiology
   url: ""
 - date_end: "2021-10-31"
   date_start: "2020-11-01"
-  description: Universitary Diploma
-  organization: ISPED (Bordeaux)
+  organization: ISPED (Bordeaux) - Universitary Diploma
   organization_url: http://www.isped.u-bordeaux.fr/
   title: Biostatistics
   url: ""
 - date_end: "2020-10-31"
   date_start: "2019-11-01"
-  description: Universitary Diploma
-  organization: Nice-Côte d'Azur University
+  organization: Nice-Côte d'Azur University - Universitary Diploma
   organization_url: https://univ-cotedazur.eu/
   title: Metabolic disorders in critical care
   url: ""
 - date_end: "2019-10-31"
   date_start: "2018-11-01"
-  description: Universitary Diploma
-  organization: Aix-Marseille University
+  organization: Aix-Marseille University - Universitary Diploma
   organization_url: https://www.univ-amu.fr/
   title: Ultrasound techniques for intensive care - echocardiography major
   url: ""
 - date_end: "2018-10-31"
   date_start: "2017-11-01"
-  description: Universitary Diploma
-  organization: Paris Univeristy
+  organization: Paris Univeristy - Universitary Diploma
   organization_url: https://www.u-paris.fr/
   title: Severe trauma management
   url: ""
