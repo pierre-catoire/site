@@ -44,7 +44,7 @@ projects:
   - Oxygenation
 image:
   filename: spo2.jpg
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 summary: We evaluated the SpO2/FiO2 ratio as a tool for estimation of PaO2/FiO2
   ratio among patients admitted for respiratory symptoms. SpO2/FiO2 threshold of
