@@ -40,7 +40,7 @@ categories:
   - education
   - postgraduate
 image:
-  filename: featured
+  filename: https://qtxasset.com/styles/breakpoint_sm_default_480px_w/s3/fiercehealthcare/1552600520/GettyImages-532394887.jpg/GettyImages-532394887.jpg?VersionId=BjxTvu_uO70y7zBE0bhWEJ8vsAJaHLMd&itok=kx-t6SdC
   focal_point: Smart
   preview_only: false
 summary: >-
@@ -50,5 +50,5 @@ summary: >-
 
 
   A survey on theoretical teaching practices in the TCEM was carried out by self-questionnaire. The results show that national, inter-regional, regional and field teaching do not exist in 50.5%, 42.8%, 26.0% and 30.2% of cases respectively. Residents have recourse to additional training because their DES and/or DESC 2 training is deemed insufficient (43.7%) or as part of a professional project (54.9%).
-date: 2021-11-18T17:39:37.211Z
+date: 2021-11-17T17:39:37.211Z
 ---
