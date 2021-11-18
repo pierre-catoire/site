@@ -22,9 +22,9 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Clinical, Research and Education Fellow (**Chef de clinique**)
-    company: University Hospital of Bordeaux
-    company_url: 'www.chu-bordeauxfr'
+  - title: Chef de Clinique
+    company: Centre Hospitalo-Universitaire de Bordeaux
+    company_url: 'www.chu-bordeaux.fr'
     company_logo:
     location: France
     date_start: '2020-11-01'
@@ -32,11 +32,10 @@ experience:
     description: |2-
         Missions include:
         
-        * Medical practice in hospital, pre-hospital and in medical dispatch settings.
-        * Regional reference centre for trauma (level 1), neurological, surgical and metabolic emergencies 
-        * Research management, from design to publication
-        * Educational design, academic and clinical teaching
-
+        * Exercice en médecine d'urgence intra-hospitalière, préhospitalière et en régulation (centre 15)
+        * Centre de référence en traumatologie (niveau 1), urgences neurologiques, chirurgicales et métaboliques
+        * Activités de recherche, du design à la publication
+        * Design pédagogique, enseignement académique et clinique
 
 design:
   columns: '2'
