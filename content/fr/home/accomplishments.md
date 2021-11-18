@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Formations complémentaires'
 subtitle:
 
 # Date format
@@ -25,33 +25,33 @@ date_format: Jan 2006
 item:
 - date_end: "2021-10-31"
   date_start: "2020-11-01"
-  organization: ISPED (Bordeaux) - Universitary Diploma
+  organization: ISPED (Bordeaux) - Diplôme Universitaire
   organization_url: http://www.isped.u-bordeaux.fr/
-  title: Methods and practice in Epidemiology
+  title: Méthodes et pratique en épidémiologie
   url: ""
 - date_end: "2021-10-31"
   date_start: "2020-11-01"
-  organization: ISPED (Bordeaux) - Universitary Diploma
+  organization: ISPED (Bordeaux) - Diplôme Universitaire
   organization_url: http://www.isped.u-bordeaux.fr/
-  title: Biostatistics
+  title: Statistiques en santé
   url: ""
 - date_end: "2020-10-31"
   date_start: "2019-11-01"
-  organization: Nice-Côte d'Azur University - Universitary Diploma
+  organization: Université de Nice-Côte d'Azur - Diplôme Universitaire
   organization_url: https://univ-cotedazur.eu/
-  title: Metabolic disorders in critical care
+  title: Réanimation métabolique
   url: ""
 - date_end: "2019-10-31"
   date_start: "2018-11-01"
-  organization: Aix-Marseille University - Universitary Diploma
+  organization: Université Aix-Marseille - Diplôme Universitaire
   organization_url: https://www.univ-amu.fr/
-  title: Ultrasound techniques for intensive care - echocardiography major
+  title: Techniques Ultrasoniques en Anesthésie-Réanimation
   url: ""
 - date_end: "2018-10-31"
   date_start: "2017-11-01"
-  organization: Paris Univeristy - Universitary Diploma
+  organization: Université de paris - Diplôme Universitaire
   organization_url: https://www.u-paris.fr/
-  title: Severe trauma management
+  title: Prise en charge des traumatismes sévères
   url: ""
  
 design:
