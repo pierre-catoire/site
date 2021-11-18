@@ -1,15 +1,11 @@
 ---
-title: "Stewart approach in emergency medicine : Why chloremia ?"
-abstract: Although it has recently celebrated its fiftieth anniversary, and has
-  shown great value in the diagnosis and management of acid-base disorders,
-  Stewart's approach remains largely unused in emergency medicine. How can the
-  notions of strong ion difference, dyschloremia, the role of bicarbonates and
-  lactate be better interpreted?
+title: "L'approche de Stewart aux urgences : pourquoi le chlore ?"
+abstract: Bien qu'elle aie récemment fêté son quarantième anniversaire, et a montré son intérêt dans le diagnostic et la prise en charge des troubles acidobasiques, l'approche de Stewart reste peu utilisée aux urgences. Comment appréhender les notions de différence des ions forts, interpréter les dyschlorémies, expliquer le rôle du bicarbonate et lactate ?
 location: Institut des Métiers de la Santé - Hôpital Xavier Arnozan (Pessac, France)
 date: 2022-03-03T10:00:17.807Z
 date_end: 2022-02-03T22:30:00.000Z
 all_day: false
-event: Aquitaine Congress of Emergency Medicine
+event: Congrès Aquitain de Médecine d'Urgence
 event_url: https://camu.mcocongres.com/
 publishDate: 2021-11-18T18:28:17.849Z
 draft: false
