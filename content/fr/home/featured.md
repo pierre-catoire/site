@@ -2,7 +2,7 @@
 widget: featured
 headless: true
 weight: 80
-title: Sélection de travaux
+title: Selected publications
 subtitle: ""
 content:
   page_type: publication
