@@ -38,7 +38,7 @@ abstract: >-
 
   *Conclusions* : The failure rate of the first attempt was high. Most risk factors could be identified only at the moment of occurrence and were not easily anticipated. Finally, the risk of complications increased with the number of attempts.
 draft: false
-featured: false
+featured: true
 categories:
   - prehospital
   - intubation
