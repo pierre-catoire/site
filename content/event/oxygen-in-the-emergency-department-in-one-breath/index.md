@@ -17,7 +17,7 @@ tags:
   - respiratory
   - ""
 image:
-  filename: tn_cordeliers_exterieur.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
