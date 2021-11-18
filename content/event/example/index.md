@@ -29,7 +29,7 @@ projects: []
 image:
   caption: ""
   focal_point: Left
-  filename: camu.jpg
+  filename: featured.png
 url_code: ""
 all_day: false
 ---
