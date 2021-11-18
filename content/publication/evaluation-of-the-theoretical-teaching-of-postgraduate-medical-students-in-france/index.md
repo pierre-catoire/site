@@ -40,7 +40,7 @@ categories:
   - education
   - postgraduate
 image:
-  filename: https://qtxasset.com/styles/breakpoint_sm_default_480px_w/s3/fiercehealthcare/1552600520/GettyImages-532394887.jpg/GettyImages-532394887.jpg?VersionId=BjxTvu_uO70y7zBE0bhWEJ8vsAJaHLMd&itok=kx-t6SdC
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 summary: >-
