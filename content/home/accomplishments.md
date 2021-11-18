@@ -23,31 +23,42 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+- date_end: "2021-10-31"
+  date_start: "2020-11-01"
+  description: Universitary Diploma
+  organization: ISPED (Bordeaux)
+  organization_url: http://www.isped.u-bordeaux.fr/
+  title: Methods and practice in Epidemiology
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+- date_end: "2021-10-31"
+  date_start: "2020-11-01"
+  description: Universitary Diploma
+  organization: ISPED (Bordeaux)
+  organization_url: http://www.isped.u-bordeaux.fr/
+  title: Biostatistics
   url: ""
-
+- date_end: "2020-10-31"
+  date_start: "2019-11-01"
+  description: Universitary Diploma
+  organization: Nice-Côte d'Azur University
+  organization_url: https://univ-cotedazur.eu/
+  title: Metabolic disorders in critical care
+  url: ""
+- date_end: "2019-10-31"
+  date_start: "2018-11-01"
+  description: Universitary Diploma
+  organization: Aix-Marseille University
+  organization_url: https://www.univ-amu.fr/
+  title: Ultrasound techniques for intensive care - echocardiography major
+  url: ""
+- date_end: "2018-10-31"
+  date_start: "2017-11-01"
+  description: Universitary Diploma
+  organization: Paris Univeristy
+  organization_url: https://www.u-paris.fr/
+  title: Severe trauma management
+  url: ""
+ 
 design:
   columns: '2' 
 ---
