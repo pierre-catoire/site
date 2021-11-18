@@ -35,5 +35,13 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: >-
+  Violence, particularly against women, have a major impact on health. A
+  national observational study was conducted among more than 32,000 medical
+  students in France, contacted by ANEMF (National Association of Medical
+  Students of France).
+
+
+  Questions on the knowledge on violence against women have a large number of incorrect answers. More than 80% of the students declare that they have not received training, despite being personally confronted to a number of situations of violence during their course (during training) or among their relatives. This survey, confirms to us the need for education on violence throughout the course of medical studies, in order to improve the identification, medical care and support for the victims. 
 date: 2021-11-18T17:56:18.107Z
 ---
