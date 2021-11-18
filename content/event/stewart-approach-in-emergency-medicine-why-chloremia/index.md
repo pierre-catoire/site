@@ -14,8 +14,9 @@ event_url: https://camu.mcocongres.com/
 publishDate: 2021-11-18T18:28:17.849Z
 draft: false
 featured: false
+projects: []
 image:
-  filename: camu2.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
