@@ -53,5 +53,5 @@ summary: We evaluated the SpO2/FiO2 ratio as a tool for estimation of PaO2/FiO2
   diagnostic performance for exclusion of PaO2/FiO2 < 400 mmHg. Diagnostic
   performance seems to be unaffected by the presence or absence of COVID-19
   infection.
-date: 2021-11-18T00:14:37.119Z
+date: 2021-02-06T00:14:37.119Z
 ---
