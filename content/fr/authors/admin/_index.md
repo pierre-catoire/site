@@ -1,14 +1,14 @@
 ---
-role: Chef de clinique en médecine d'urgence, chercheur
+role: Emergency Medicine Fellow, junior researcher
 avatar_filename: avatar.jpg
-bio: Chef de clinique en médecine d'urgence
+bio: Emergency Medicine fellow
 interests:
-  - Médecine d'urgence
-  - Biostatistiques
-  - Raisonnement clinique
-  - Urgences respiratoires
-  - Préhospitalier
-  - Facteurs humains
+  - Emergency medicine
+  - Biostatistics
+  - Clinical Reasoning
+  - Respiratory care
+  - Prehospital
+  - Human factors
 social:
   - icon: envelope-square
     icon_pack: fas
@@ -37,26 +37,26 @@ social:
     icon_pack: ai
     icon: sci-hub
 organizations:
-  - name: Centre Hospitalo-Universitaoire de Bordeaux
+  - name: University Hospital of Bordeaux
     url: https://www.chu-bordeaux.fr/
 education:
   courses:
-    - course: Master - Biostatistiques (en cours)
+    - course: MSc in Biostatistics (in progress)
       institution: ISPED
       year: ""
-    - course: DESC - Médecine d'Urgence
-      institution: Université de Bordeaux
+    - course: MD in Emergency Medicine
+      institution: Bordeaux University
       year: 2020
 superuser: true
 highlight_name: true
 title: Pierre Catoire
 email: pierre.catoire.med@gmail.com
 ---
-Je suis actuellement chef de clinique aux urgences, SMUR et SAMU du [Centre Hospitalo-Universitaire de Bordeaux](www.chu-bordeaux.fr), et pratique en contextes intrahopitalier, préhospitalier et en régulation (centre 15). Dans le cadre de mon clinicat, j'exerce aussi une activité d'enseignement et de recherche au sein de l'[Université de Bordeaux](www.u-bordeaux.fr).
-Mes principaux sujets de recherche concernent la prise en charge des urgences respiratoires, métaboliques et traumatiques, en particulier l'aide à la décision par l'amélioration de l'exploitation des données cliniques et la gestion de l'incertitude.
+I am currently an Emergency Medicine Fellow (*Chef de Clinique*) at the [University Hospital of Bordeaux](www.chu-bordeaux.fr), and practice in hospital, pre-hospital and dispatch settings.  As part of my fellowship, I also carry out research and teaching activities at the [University of Bordeaux](www.u-bordeaux.fr).
+My main clinical research focuses on the management of respiratory, metabolic and traumatic emergencies, in particular on clinical decision support by improving the integration of clinical information.
 
-Pour développer ces outils cliniques, je m'appuie sur des approches statistiques innovantes, que j'acquiers durant cette année dans le cadre du Master de Biostatistiques de l'[Institut de Santé Publique, Epidémiologie et Développement (ISPED)](http://www.isped.u-bordeaux.fr/) de Bordeaux. Je suis particulièrement intéressé par les approches bayésiennes et l'inférence causale.
+To develop these clinical tools, I rely on innovative statistical approaches, as I am learning them in the Biostatistics master's degree of the [Institute of Public Health, Epidemiology and Development (ISPED)](http://www.isped.u-bordeaux.fr/) in Bordeaux. In particular, I am interested in Bayesian and causal inference approaches.
 
-Je participe également à l'enseignement de médecine d'urgence au sein de l'université de Bordeaux, auprès des étudiants, médecins diplômés, infirmiers ... Outre mes thématiques cliniques, mes thèmes d'enseignement privilégiés concernent le raisonnement clinique, la décision dans l'incertitude, et la résilience à l'erreur. Je suis depuis peu impliqué dans des projets d'enseignement en accès libres (*Free Open Access Medical Education*) et dans l'élaboration et la diffusion des [recommandations](https://www.sfmu.org/fr/vie-professionnelle/outils-professionnels/consensus/) de la Société Française de Médecine d'Urgence (SFMU). 
+I also teach emergency medicine at the University of Bordeaux to medical students, senior doctors, nurses and paramedical staff. In addition to my clinical subjects, my main teaching topics are clinical reasoning, decision making under uncertainty, and resilience to error. I am recently involved in free medical education projects (stay tuned!) and in the elaboration and sharing of [clinical guidelines](https://www.sfmu.org/fr/vie-professionnelle/outils-professionnels/consensus/) within the French Society of Emergency Medicine (SFMU). 
 
-{{< icon name="download" pack="fas" >}} Si vous souhaitez plus de détails sur mon parcours, n'hésitez pas à consulter mon {{< staticref "uploads/demo_resume.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} If you want to know more about my background, please feel free to consult my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
