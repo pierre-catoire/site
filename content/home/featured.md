@@ -12,7 +12,7 @@ content:
     category: ""
     publication_type: ""
     tag: ""
-  order: asc
+  order: desc
 widget_id: selected-publications
 design:
   view: 3
