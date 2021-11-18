@@ -32,7 +32,7 @@ tags:
   - assault
   - pregraduate
 image:
-  filename: featured
+  filename: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4hK-A-CBdBaJ00cpb4Jy7EDT7Uf6ush5l2sYIGCAt18Gedr6EH8fzomceWsLE0gwQqZ4&usqp=CAU
   focal_point: Smart
   preview_only: false
 summary: >-
