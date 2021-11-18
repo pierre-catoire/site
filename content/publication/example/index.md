@@ -37,6 +37,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: true
+  filename: featured.jpg
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
 url_code: ""
