@@ -25,7 +25,7 @@ experience:
   - title: Clinical, Research and Education Fellow (**Chef de clinique**)
     company: University Hospital of Bordeaux
     company_url: 'www.chu-bordeauxfr'
-    company_logo: org-chubx
+    company_logo:
     location: France
     date_start: '2020-11-01'
     date_end: ''
