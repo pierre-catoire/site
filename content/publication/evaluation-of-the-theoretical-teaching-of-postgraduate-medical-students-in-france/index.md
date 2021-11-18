@@ -50,5 +50,5 @@ summary: >-
 
 
   A survey on theoretical teaching practices in the TCEM was carried out by self-questionnaire. The results show that national, inter-regional, regional and field teaching do not exist in 50.5%, 42.8%, 26.0% and 30.2% of cases respectively. Residents have recourse to additional training because their DES and/or DESC 2 training is deemed insufficient (43.7%) or as part of a professional project (54.9%).
-date: 2021-11-17T17:39:37.211Z
+date: 2015-05-14T17:39:37.211Z
 ---
