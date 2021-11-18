@@ -26,7 +26,7 @@ abstract: >-
 
   **Conclusion** : This survey, rich in teachings, confirms to us the need for education on violence throughout the course of medical studies, in order to improve the identification, medical care and support for the victims. 
 draft: false
-featured: false
+featured: true
 tags:
   - education
   - assault
