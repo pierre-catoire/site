@@ -55,5 +55,5 @@ summary: Tracheal intubation in an out-of-hospital setting is a frequent and
   evaluated the failure rate of the first intubation attempt in an
   out-of-hospital setting and identified variables potentially associated with
   such failure.
-date: 2021-11-18T17:47:27.044Z
+date: 2021-04-13T16:47:00.000Z
 ---
