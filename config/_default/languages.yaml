@@ -4,6 +4,7 @@
 
 # Default language
 en:
+  contentDir: content/en
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
@@ -12,7 +13,7 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 fr:
-    contentDir: content/french
+    contentDir: content/fr
     languageName: Français
     weight: 20
 #  menu:
