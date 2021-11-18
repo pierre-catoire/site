@@ -45,7 +45,7 @@ categories:
   - airway
   - respiratory
 image:
-  filename: https://simusante.com/wordpress/wp-content/uploads/simutrauma-extrah.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 summary: Tracheal intubation in an out-of-hospital setting is a frequent and
