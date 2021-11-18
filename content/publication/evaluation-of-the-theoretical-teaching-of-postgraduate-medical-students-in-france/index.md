@@ -43,5 +43,12 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+summary: >-
+  The third cycle of medical studies (TCEM) constitutes the basis of the
+  specialised training of doctors in France. The objective was to evaluate
+  theoretical teaching practices during the third cycle of medical studies.
+
+
+  A survey on theoretical teaching practices in the TCEM was carried out by self-questionnaire. The results show that national, inter-regional, regional and field teaching do not exist in 50.5%, 42.8%, 26.0% and 30.2% of cases respectively. Residents have recourse to additional training because their DES and/or DESC 2 training is deemed insufficient (43.7%) or as part of a professional project (54.9%).
 date: 2021-11-18T17:39:37.211Z
 ---
