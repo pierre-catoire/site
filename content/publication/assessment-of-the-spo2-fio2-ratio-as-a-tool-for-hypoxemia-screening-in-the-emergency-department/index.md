@@ -43,7 +43,7 @@ categories:
 projects:
   - Oxygenation
 image:
-  filename: spo2.jpg
+  filename: https://static01.nyt.com/images/2020/12/22/science/22VIRUS-OXIMETER-promo/22VIRUS-OXIMETER-promo-mediumSquareAt3X.jpg
   focal_point: ""
   preview_only: false
 summary: We evaluated the SpO2/FiO2 ratio as a tool for estimation of PaO2/FiO2
