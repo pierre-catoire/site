@@ -59,4 +59,4 @@ To develop these clinical tools, I rely on innovative statistical approaches, as
 
 I also teach emergency medicine at the University of Bordeaux to medical students, senior doctors, nurses and paramedical staff. In addition to my clinical subjects, my main teaching topics are clinical reasoning, decision making under uncertainty, and resilience to error. I am recently involved in free medical education projects (stay tuned!) and in the elaboration and sharing of [clinical guidelines](https://www.sfmu.org/fr/vie-professionnelle/outils-professionnels/consensus/) within the French Society of Emergency Medicine (SFMU). 
 
-{{< icon name="download" pack="fas" >}} If you want to know more about my background, please feel free to consult my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} If you want to know more about my background, please feel free to consult my {{< staticref "uploads/resume_pierre_catoire_en.pdf" "newtab" >}}resumé{{< /staticref >}}.
