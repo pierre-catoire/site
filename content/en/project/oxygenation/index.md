@@ -1,12 +1,9 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Oxygénation
+summary: Evaluation et prise en charge des insuffisances respiratoires hypoxémiques en urgence
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
+- Oxygenation
+date: "2021-01-20T00:00:00Z"
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -21,15 +18,10 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
-Oxygénation
+The Saturation-Pression converter uses {{< staticref "https://link.springer.com/article/10.1007/s00421-015-3228-3" "newtab" >}}Dash's et al. equations for HbO2 binding{{< /staticref >}} for estimate PaO2 from SpO2, including the effects of pH, temperature, CO2. It also estimates PaO2/FiO2 for hypoxemia severity estimation.
+
+***Please use with caution ! Prospective clinical validation in progress !***
 
 <iframe src="https://pierre-catoire.shinyapps.io/sao2pao2converter/" width="576" height="1000" scrolling="yes" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
