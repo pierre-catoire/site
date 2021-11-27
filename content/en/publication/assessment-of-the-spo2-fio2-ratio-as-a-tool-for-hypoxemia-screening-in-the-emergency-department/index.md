@@ -31,8 +31,7 @@ abstract: >-
 
 
   **Conclusions** : The SpO2/FiO2 ratio may be a reliable tool for hypoxemia screening among patients admitted to the ED, particularly during the SARS-CoV-2 outbreak.
-  
-  <iframe src="https://pierre-catoire.shinyapps.io/sao2pao2converter/" width="576" height="1000" scrolling="yes" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
+ 
   
 draft: false
 featured: true
