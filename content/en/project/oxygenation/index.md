@@ -24,4 +24,4 @@ The Saturation-Pression converter uses {{< staticref "https://link.springer.com/
 
 ***Please use with caution ! Prospective clinical validation in progress !***
 
-<iframe src="https://pierre-catoire.shinyapps.io/sao2pao2converter/" width="576" height="1620" scrolling="yes" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
+<iframe src="https://pierre-catoire.shinyapps.io/sao2pao2converter/" width="576" height="1720" scrolling="yes" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
